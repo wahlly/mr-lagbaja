@@ -1,1 +1,76 @@
 VERSION CONTROL SYSTEM
+
+							                            
+														
+														
+					OVERVIEW
+
+Version Control System is used to keep track of changes of a particular project, files and folders 
+
+whereby it creates versions of changes made to each type of project, files and folders. There are different types of
+
+version control system which has being used in the past which aren't in much use today, such as Source Code Control System,
+
+Revision Control System, Concurrent Version System, Apache Subversion and Bitkeeper SCM. Each of these earlier stated
+
+version control system were found to have some of the following issues such as; working with only an individual file at 
+
+a time, speed of processing files, community issues e.t.c.
+
+In recent times, the use of a version control system that fitted into the demands of individuals was created which is called GIT,
+
+which uses the following features listed below;
+
+(1) It uses distribution version control like Bitkeeper
+
+(2) It is open-source and a free software, making it have a large community.
+
+(3) It is compatible with Linux , Mac OS and WIndows.
+
+(4) It is faster than other SCM's 
+
+(5) It is better in safeguarding against data corruption.
+
+(6)They increase the team’s productivity with continuous integration and developments.
+
+GIT has some paid features for companies or individuals since it is very popular and has a high-demand in use, so GIT makes
+
+money from these features and also trainings of I.T experts whom has being accustomed to using their product which gives
+
+trust to other colleagues in the I.T fields.
+
+GIT also uses a file hosting or cloud computing service called GitHub in order to create a secured backup of files in the 
+
+case of Natural disaster, fire, accidents or other unforseen circumstances.
+
+As GIT has advantages to the world it has some disdavantages which can be improved upon to gain or create a shift in
+
+in customer base such as;
+
+Below are the disadvantages:
+
+(1)GIT requires technical excellence and it is slower on windows. 
+
+(2)They have tedious command lines to input and doesn’t track renames.
+
+(3)They have poor GUI and usability. 
+
+(4)And also, they take a lot of resources which slows down the performance.
+
+(5)GIT doesn’t support checking out sub-trees. 
+
+(6)For each project, the central service would need to be set up for multiple package repositories.
+
+(7)It lacks window support and doesn’t track empty folders.
+
+(8)GIT needs multiple branches to support parallel developments used by the developers.
+
+(9)There is no built-in access control and doesn’t support binary files.
+
+(10)They do not provide access control mechanisms in case of security.
+
+(11)The process of Packing is very expensive completely.
+
+In order to create or sell a version control system which can be able to standout in this competitive market, some 
+
+of the major problems or all fixed, could give an edge over GIT software as a whole.
